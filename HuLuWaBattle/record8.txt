@@ -1,0 +1,62 @@
+8 DaWa 13 15 ErWa 12 15 SanWa 11 15 SiWa 10 15 WuWa 9 15 LiuWa 8 15 QiWa 7 15 GrandPa 6 15 8 Scorpion 17 15 Snake 18 14 Goblin 18 16 Goblin 19 13 Goblin 19 17 Goblin 20 12 Goblin 20 18 Goblin 21 11 
+8 DaWa 14 15 ErWa 13 15 SanWa 12 15 SiWa 11 15 WuWa 10 15 LiuWa 9 15 QiWa 8 15 GrandPa 7 15 8 Scorpion 16 15 Snake 17 14 Goblin 17 16 Goblin 18 13 Goblin 18 17 Goblin 19 12 Goblin 19 18 Goblin 20 11 
+7 ErWa 14 15 SanWa 13 15 SiWa 12 15 WuWa 11 15 LiuWa 10 15 QiWa 9 15 GrandPa 8 15 7 Snake 16 14 Goblin 16 16 Goblin 17 13 Goblin 17 17 Goblin 18 12 Goblin 18 18 Goblin 19 11 
+6 SanWa 14 15 SiWa 13 15 WuWa 12 15 LiuWa 11 15 QiWa 10 15 GrandPa 9 15 5 Goblin 16 13 Goblin 16 17 Goblin 17 12 Goblin 17 18 Goblin 18 11 
+6 SanWa 15 15 SiWa 14 15 WuWa 13 15 LiuWa 12 15 QiWa 11 15 GrandPa 10 15 5 Goblin 15 13 Goblin 15 17 Goblin 16 12 Goblin 16 18 Goblin 17 11 
+6 SanWa 16 15 SiWa 15 15 WuWa 14 15 LiuWa 13 15 QiWa 12 15 GrandPa 11 15 5 Goblin 14 13 Goblin 14 17 Goblin 15 12 Goblin 15 18 Goblin 16 11 
+6 SanWa 17 15 SiWa 16 15 WuWa 15 15 LiuWa 14 15 QiWa 13 15 GrandPa 12 15 5 Goblin 13 13 Goblin 13 17 Goblin 14 12 Goblin 14 18 Goblin 15 11 
+6 SanWa 18 15 SiWa 17 15 WuWa 16 15 LiuWa 15 15 QiWa 14 15 GrandPa 13 15 5 Goblin 12 13 Goblin 12 17 Goblin 13 12 Goblin 13 18 Goblin 14 11 
+6 SanWa 19 15 SiWa 18 15 WuWa 17 15 LiuWa 16 15 QiWa 15 15 GrandPa 14 15 5 Goblin 11 13 Goblin 11 17 Goblin 12 12 Goblin 12 18 Goblin 13 11 
+6 SanWa 21 15 SiWa 20 15 WuWa 19 15 LiuWa 18 15 QiWa 17 15 GrandPa 16 15 5 Goblin 9 13 Goblin 9 17 Goblin 10 12 Goblin 10 18 Goblin 11 11 
+6 SanWa 22 15 SiWa 21 15 WuWa 20 15 LiuWa 19 15 QiWa 18 15 GrandPa 17 15 5 Goblin 8 13 Goblin 8 17 Goblin 9 12 Goblin 9 18 Goblin 10 11 
+6 SanWa 23 15 SiWa 22 15 WuWa 21 15 LiuWa 20 15 QiWa 19 15 GrandPa 18 15 5 Goblin 7 13 Goblin 7 17 Goblin 8 12 Goblin 8 18 Goblin 9 11 
+6 SanWa 24 15 SiWa 23 14 WuWa 23 16 LiuWa 22 13 QiWa 22 17 GrandPa 21 12 5 Goblin 6 13 Goblin 6 17 Goblin 7 12 Goblin 7 18 Goblin 8 11 
+6 SanWa 25 15 SiWa 24 14 WuWa 24 16 LiuWa 23 13 QiWa 23 17 GrandPa 22 12 5 Goblin 5 13 Goblin 5 17 Goblin 6 12 Goblin 6 18 Goblin 7 11 
+6 SanWa 26 15 SiWa 25 14 WuWa 25 16 LiuWa 24 13 QiWa 24 17 GrandPa 23 12 5 Goblin 4 13 Goblin 4 17 Goblin 5 12 Goblin 5 18 Goblin 6 11 
+6 SanWa 27 15 SiWa 26 14 WuWa 26 16 LiuWa 25 13 QiWa 25 17 GrandPa 24 12 5 Goblin 3 13 Goblin 3 17 Goblin 4 12 Goblin 4 18 Goblin 5 11 
+6 SanWa 28 15 SiWa 27 14 WuWa 27 16 LiuWa 26 13 QiWa 26 17 GrandPa 25 12 5 Goblin 2 13 Goblin 2 17 Goblin 3 12 Goblin 3 18 Goblin 4 11 
+6 SanWa 29 15 SiWa 28 14 WuWa 28 16 LiuWa 27 13 QiWa 27 17 GrandPa 26 12 5 Goblin 1 13 Goblin 1 17 Goblin 2 12 Goblin 2 18 Goblin 3 11 
+6 SanWa 28 15 SiWa 27 14 WuWa 27 16 LiuWa 26 13 QiWa 26 17 GrandPa 25 12 5 Goblin 0 13 Goblin 0 17 Goblin 1 12 Goblin 1 18 Goblin 2 11 
+6 SanWa 27 15 SiWa 26 14 WuWa 26 16 LiuWa 25 13 QiWa 25 17 GrandPa 24 12 5 Goblin 1 13 Goblin 1 17 Goblin 2 12 Goblin 2 18 Goblin 3 11 
+6 SanWa 26 15 SiWa 25 14 WuWa 25 16 LiuWa 24 13 QiWa 24 17 GrandPa 23 12 5 Goblin 2 13 Goblin 2 17 Goblin 3 12 Goblin 3 18 Goblin 4 11 
+6 SanWa 25 15 SiWa 24 14 WuWa 24 16 LiuWa 23 13 QiWa 23 17 GrandPa 22 12 5 Goblin 3 13 Goblin 3 17 Goblin 4 12 Goblin 4 18 Goblin 5 11 
+6 SanWa 24 15 SiWa 23 14 WuWa 23 16 LiuWa 22 13 QiWa 22 17 GrandPa 21 12 5 Goblin 4 13 Goblin 4 17 Goblin 5 12 Goblin 5 18 Goblin 6 11 
+6 SanWa 23 15 SiWa 22 14 WuWa 22 16 LiuWa 21 13 QiWa 21 17 GrandPa 20 12 5 Goblin 5 13 Goblin 5 17 Goblin 6 12 Goblin 6 18 Goblin 7 11 
+6 SanWa 22 15 SiWa 21 14 WuWa 21 16 LiuWa 20 13 QiWa 20 17 GrandPa 19 12 5 Goblin 6 13 Goblin 6 17 Goblin 7 12 Goblin 7 18 Goblin 8 11 
+6 SanWa 21 15 SiWa 20 14 WuWa 20 16 LiuWa 19 13 QiWa 19 17 GrandPa 18 12 5 Goblin 7 13 Goblin 7 17 Goblin 8 12 Goblin 8 18 Goblin 9 11 
+6 SanWa 20 15 SiWa 19 14 WuWa 19 16 LiuWa 18 13 QiWa 18 17 GrandPa 17 12 5 Goblin 8 13 Goblin 8 17 Goblin 9 12 Goblin 9 18 Goblin 10 11 
+6 SanWa 19 15 SiWa 18 14 WuWa 18 16 LiuWa 17 13 QiWa 17 17 GrandPa 16 12 5 Goblin 9 13 Goblin 9 17 Goblin 10 12 Goblin 10 18 Goblin 11 11 
+6 SanWa 18 15 SiWa 17 14 WuWa 17 16 LiuWa 16 13 QiWa 16 17 GrandPa 15 12 5 Goblin 10 13 Goblin 10 17 Goblin 11 12 Goblin 11 18 Goblin 12 11 
+5 SanWa 17 15 SiWa 16 14 WuWa 16 16 LiuWa 15 13 QiWa 15 17 5 Goblin 11 13 Goblin 11 17 Goblin 12 12 Goblin 12 18 Goblin 13 11 
+5 SanWa 16 15 SiWa 15 14 WuWa 15 16 LiuWa 14 13 QiWa 14 17 5 Goblin 12 13 Goblin 12 17 Goblin 13 12 Goblin 13 18 Goblin 14 11 
+5 SanWa 15 15 SiWa 14 14 WuWa 14 16 LiuWa 13 13 QiWa 13 17 5 Goblin 13 13 Goblin 13 17 Goblin 14 12 Goblin 14 18 Goblin 15 11 
+4 SanWa 14 15 SiWa 13 14 LiuWa 12 13 QiWa 12 17 1 Goblin 16 11 
+4 SanWa 13 15 SiWa 12 14 LiuWa 11 13 QiWa 11 17 1 Goblin 17 11 
+4 SanWa 12 15 SiWa 11 14 LiuWa 10 13 QiWa 10 17 1 Goblin 18 11 
+4 SanWa 11 15 SiWa 10 14 LiuWa 9 13 QiWa 9 17 1 Goblin 19 11 
+4 SanWa 10 15 SiWa 9 14 LiuWa 8 13 QiWa 8 17 1 Goblin 20 11 
+4 SanWa 9 15 SiWa 8 14 LiuWa 7 13 QiWa 7 17 1 Goblin 21 11 
+4 SanWa 8 15 SiWa 7 14 LiuWa 6 13 QiWa 6 17 1 Goblin 22 11 
+4 SanWa 7 15 SiWa 6 14 LiuWa 5 13 QiWa 5 17 1 Goblin 23 11 
+4 SanWa 6 15 SiWa 5 14 LiuWa 4 13 QiWa 4 17 1 Goblin 24 11 
+4 SanWa 5 15 SiWa 4 14 LiuWa 3 13 QiWa 3 17 1 Goblin 25 11 
+4 SanWa 4 15 SiWa 3 14 LiuWa 2 13 QiWa 2 17 1 Goblin 26 11 
+4 SanWa 3 15 SiWa 2 14 LiuWa 1 13 QiWa 1 17 1 Goblin 27 11 
+4 SanWa 2 15 SiWa 1 14 LiuWa 0 13 QiWa 0 17 1 Goblin 28 11 
+4 SanWa 3 15 SiWa 2 14 LiuWa 1 13 QiWa 1 17 1 Goblin 29 11 
+4 SanWa 4 15 SiWa 3 14 LiuWa 2 13 QiWa 2 17 1 Goblin 29 11 
+4 SanWa 5 15 SiWa 4 14 LiuWa 3 13 QiWa 3 17 1 Goblin 29 11 
+4 SanWa 6 15 SiWa 5 14 LiuWa 4 13 QiWa 4 17 1 Goblin 28 11 
+4 SanWa 7 15 SiWa 6 14 LiuWa 5 13 QiWa 5 17 1 Goblin 27 11 
+4 SanWa 8 15 SiWa 7 14 LiuWa 6 13 QiWa 6 17 1 Goblin 26 11 
+4 SanWa 9 15 SiWa 8 14 LiuWa 7 13 QiWa 7 17 1 Goblin 25 11 
+4 SanWa 10 15 SiWa 9 14 LiuWa 8 13 QiWa 8 17 1 Goblin 24 11 
+4 SanWa 11 15 SiWa 10 14 LiuWa 9 13 QiWa 9 17 1 Goblin 23 11 
+4 SanWa 12 15 SiWa 11 14 LiuWa 10 13 QiWa 10 17 1 Goblin 22 11 
+4 SanWa 13 15 SiWa 12 14 LiuWa 11 13 QiWa 11 17 1 Goblin 21 11 
+4 SanWa 14 15 SiWa 13 14 LiuWa 12 13 QiWa 12 17 1 Goblin 20 11 
+4 SanWa 15 15 SiWa 14 14 LiuWa 13 13 QiWa 13 17 1 Goblin 19 11 
+4 SanWa 16 15 SiWa 15 14 LiuWa 14 13 QiWa 14 17 1 Goblin 18 11 
+4 SanWa 17 15 SiWa 16 14 LiuWa 15 13 QiWa 15 17 1 Goblin 17 11 
+4 SanWa 18 15 SiWa 17 14 LiuWa 16 13 QiWa 15 12 1 Goblin 16 11 
+4 SanWa 19 15 SiWa 18 14 LiuWa 17 13 QiWa 16 12 0 
